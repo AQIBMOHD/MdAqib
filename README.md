@@ -15,6 +15,3 @@ Having sound knowledge of Data Structures and Algorithms, <br/> solved over 300+
 </p>
 
 =======
-# MdAqib
-About Md Aqib
->>>>>>> a816933d54394d26a761b16e611fc856ef1aeef1
