@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">Hi 👋, I'm Md Aqib</h1>
 <h3 align="left">Skilled in web technologies Including - <br/></h3>
 <p></p>
@@ -13,3 +14,7 @@ Having sound knowledge of Data Structures and Algorithms, <br/> solved over 300+
 <a href="https://leetcode.com/u/MdAqib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kaleem_ahmed" height="30" width="40" /></a>
 </p>
 
+=======
+# MdAqib
+About Md Aqib
+>>>>>>> a816933d54394d26a761b16e611fc856ef1aeef1
